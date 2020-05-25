@@ -1,0 +1,218 @@
+
+.avatar-uploader > .fa-upload {
+  width: 128px;
+  height: 128px;
+}
+.fa-upload-select-picture-card i {
+  font-size: 32px;
+  color: #999;
+}
+.fa-upload-select-picture-card .fa-upload-text {
+  margin-top: 8px;
+  color: #666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* you can make up upload button and sample style by using stylesheets */
+.fa-upload-select-picture-card i {
+  font-size: 32px;
+  color: #999;
+}
+.fa-upload-select-picture-card .fa-upload-text {
+  margin-top: 8px;
+  color: #666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* tile uploaded pictures */
+.upload-list-inline[data-v-c91678b8] .fa-upload-list-item {
+  float: left;
+  width: 200px;
+  margin-right: 8px;
+}
+.upload-list-inline[data-v-c91678b8] .fa-upload-animate-enter {
+  -webkit-animation-name: uploadAnimateInlineIn;
+          animation-name: uploadAnimateInlineIn;
+}
+.upload-list-inline[data-v-c91678b8] .fa-upload-animate-leave {
+  -webkit-animation-name: uploadAnimateInlineOut;
+          animation-name: uploadAnimateInlineOut;
+}
+
